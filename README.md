@@ -10,9 +10,9 @@ Currently strengthening my backend development expertise with **Java, Spring Boo
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]www.linkedin.com/in/savindya-prathibhani-7a9467212
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)]savindyaabeysingha23@gmail.com
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=white)]https://www.hackerrank.com/profile/savindyaabeysin1
 
 ---
 
@@ -119,21 +119,13 @@ Currently strengthening my backend development expertise with **Java, Spring Boo
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true)
-
----
-
 ## 📫 Let's Connect
 
 I'm interested in opportunities related to **Software Engineering, Backend Development and Full-Stack Development**.
 
-📧 **Email:** YOUR_EMAIL
+📧 **Email:** savindyaabeysingha23@gmail.com
 
-💼 **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)
+💼 **LinkedIn:** [Connect with me]www.linkedin.com/in/savindya-prathibhani-7a9467212
 
 ---
 
