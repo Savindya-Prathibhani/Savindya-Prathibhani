@@ -1,100 +1,80 @@
-# Hi 👋, I'm Savindya Prathibhani
+# 👋 Hi, I'm Savindya Prathibhani
 
-### Software Engineer | .NET | C# | Java | Spring Boot | Power Platform
+**Software Engineer · .NET · C# · Java · Spring Boot · Angular · Power Platform**
 
-🎓 B.Sc. (Hons) in Information Technology  
-💻 Software Developer with 1+ year of industry experience  
-🔧 Interested in Backend Development & Full-Stack Development  
-🚀 Currently building backend applications with Java & Spring Boot
+B.Sc. (Hons) in Information Technology graduate from the **University of Moratuwa**, with a **First Class** and a **3.73/4.00 equivalent CGPA (7.73)**.
 
----
+I have over **1 year of industry experience in software development**, with hands-on experience building and maintaining applications using **C#, .NET, ASP.NET Core, Angular, TypeScript, SQL Server, Entity Framework, REST APIs, Dynamics 365 CE, and Microsoft Power Platform**.
 
-## 👩‍💻 About Me
-
-I'm a Software Engineering graduate with hands-on experience in
-software development, Microsoft .NET, Dynamics 365, Power Platform,
-and backend development.
-
-I enjoy designing APIs, working with databases, solving technical
-problems, and building scalable software applications.
-
-Currently, I'm strengthening my backend development skills with
-Java, Spring Boot, Spring Data JPA, Spring Security, and PostgreSQL.
+Currently strengthening my backend development expertise with **Java, Spring Boot, Spring Data JPA, Spring Security, and PostgreSQL**.
 
 ---
 
-## 🛠️ Technical Skills
-
-### Languages
-- C#
-- Java
-- Python
-- SQL
-
-### Backend
-- .NET
-- ASP.NET Core
-- Spring Boot
-- Spring Data JPA
-- Spring Security
-- Entity Framework
-- REST APIs
-
-### Frontend
-- Angular
-- TypeScript
-- HTML
-- CSS
-
-### Databases
-- SQL Server
-- PostgreSQL
-- MySQL
-
-### Microsoft Power Platform
-- Power Apps
-- Power Automate
-- Dataverse
-- Dynamics 365 CE
-- C# Plugins
-- PCF Controls
-
-### Tools & Technologies
-- Git
-- GitHub
-- Docker
-- Azure
-- GitHub Actions
-- CI/CD
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🚗 Vehicle / Tour Management System
-Full-stack application built using:
+| **Project** | **Description** | **Stack** |
+|---|---|---|
+| [Tour Management System](YOUR_REPO_URL) | Full-stack management system with vehicle, customer, driver, reservation, tour, income and expense management, role-based access and reporting. | C# · ASP.NET Core · EF Core · SQL Server |
+| [Spring Boot Backend](YOUR_REPO_URL) | Backend application focused on REST APIs, database integration, authentication and layered architecture. | Java · Spring Boot · JPA · PostgreSQL |
+| [Computer Vision / ML Project](YOUR_REPO_URL) | Machine learning project exploring computer vision and model performance using real-world datasets. | Python · Machine Learning · Computer Vision |
+| [D365 / Power Platform Projects](YOUR_REPO_URL) | Business application solutions involving Dataverse, Power Automate, Dynamics 365 CE, plugins and customizations. | Dynamics 365 · Dataverse · Power Automate · C# |
+| [Full-Stack Web Application](YOUR_REPO_URL) | Web application developed with frontend and backend integration, REST APIs and relational database management. | Angular · TypeScript · .NET · SQL |
 
-- ASP.NET Core MVC
-- C#
-- .NET
-- Entity Framework Core
-- SQL Server
-- ASP.NET Identity
-- REST APIs
+---
 
-Features include vehicle management, customer management,
-drivers, reservations, tours, income/expense tracking and reporting.
+## 🛠️ Tech Stack
 
-### 🔐 Spring Boot Backend Projects
+### 💻 Languages
 
-Currently developing backend applications using:
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=database&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-- Java
-- Spring Boot
-- Spring Data JPA
-- Spring Security
-- PostgreSQL
-- REST APIs
+### ⚙️ Backend & Frameworks
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat&logo=dotnet&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=flat)
+
+### 🎨 Frontend
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+### 🗄️ Databases
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+### ☁️ Microsoft Power Platform
+
+![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=flat&logo=powerapps&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat&logo=powerautomate&logoColor=white)
+![Dataverse](https://img.shields.io/badge/Dataverse-742774?style=flat&logo=microsoft&logoColor=white)
+![Dynamics 365](https://img.shields.io/badge/Dynamics%20365-002050?style=flat&logo=microsoft&logoColor=white)
+
+### 🔧 Tools & DevOps
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
 ---
 
@@ -103,33 +83,57 @@ Currently developing backend applications using:
 ### Software Engineering Intern
 **One Billion Tech**
 
-- Developed software using C# and .NET
-- Worked with ASP.NET Core and SQL Server
-- Developed and maintained REST APIs
-- Worked with Microsoft Dynamics 365 CE
-- Developed Power Automate workflows
-- Worked with Dataverse and Power Platform
-- Troubleshot plugins, flows and integrations
-- Participated in technical presentations and knowledge sharing
+- Developed applications using **C#, .NET, ASP.NET Core and SQL Server**
+- Worked with **REST APIs, Entity Framework and relational databases**
+- Developed and maintained solutions using **Microsoft Dynamics 365 CE**
+- Worked with **Dataverse and Power Automate**
+- Developed and maintained **Dynamics 365 plugins and customizations**
+- Troubleshot application issues, integrations, plugins and workflows
+- Participated in requirements analysis, POCs and production deployments
+- Contributed to technical presentations and knowledge sharing
 
 ---
 
 ## 📚 Currently Learning
 
-- Advanced Spring Boot
-- Spring Security
-- Microservices
-- Docker
-- CI/CD
+- Advanced **Spring Boot**
+- **Spring Security**
+- Backend architecture and design patterns
+- **Microservices**
+- **Docker & CI/CD**
 - Cloud technologies
-- Backend architecture
+- Scalable REST API development
 
 ---
 
-## 📫 Connect With Me
+## 🎯 Areas of Interest
 
-[LinkedIn]www.linkedin.com/in/savindya-prathibhani-7a9467212 •
-[Email]savindyaabeysingha23@gmail.com
+- Backend Development
+- Full-Stack Development
+- Software Architecture
+- REST API Development
+- Database Design
+- Cloud & DevOps
+- Computer Vision
+- Explainable AI
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true)
+
+---
+
+## 📫 Let's Connect
+
+I'm interested in opportunities related to **Software Engineering, Backend Development and Full-Stack Development**.
+
+📧 **Email:** YOUR_EMAIL
+
+💼 **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)
 
 ---
 
