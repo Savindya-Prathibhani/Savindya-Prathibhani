@@ -10,9 +10,11 @@ Currently strengthening my backend development expertise with **Java, Spring Boo
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]www.linkedin.com/in/savindya-prathibhani-7a9467212
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)]savindyaabeysingha23@gmail.com
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=white)]https://www.hackerrank.com/profile/savindyaabeysin1
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/savindya-prathibhani-7a9467212)
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:savindyaabeysingha23@gmail.com)
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/savindyaabeysin1)
 
 ---
 
