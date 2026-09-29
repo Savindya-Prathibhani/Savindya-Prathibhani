@@ -22,7 +22,7 @@ Currently strengthening my backend development expertise with **Java, Spring Boo
 
 | **Project** | **Description** | **Stack** |
 |---|---|---|
-| [Tour Management System](YOUR_REPO_URL) | Full-stack management system with vehicle, customer, driver, reservation, tour, income and expense management, role-based access and reporting. | C# · ASP.NET Core · EF Core · SQL Server |
+| [Tour Management System](https://github.com/Savindya-Prathibhani/TourManagementSystem) | Full-stack management system with vehicle, customer, driver, reservation, tour, income and expense management, role-based access and reporting. | C# · ASP.NET Core · EF Core · SQL Server |
 | [Spring Boot Backend](YOUR_REPO_URL) | Backend application focused on REST APIs, database integration, authentication and layered architecture. | Java · Spring Boot · JPA · PostgreSQL |
 | [Computer Vision / ML Project](YOUR_REPO_URL) | Machine learning project exploring computer vision and model performance using real-world datasets. | Python · Machine Learning · Computer Vision |
 | [D365 / Power Platform Projects](YOUR_REPO_URL) | Business application solutions involving Dataverse, Power Automate, Dynamics 365 CE, plugins and customizations. | Dynamics 365 · Dataverse · Power Automate · C# |
