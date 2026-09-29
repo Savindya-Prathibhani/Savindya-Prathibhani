@@ -127,8 +127,7 @@ I'm interested in opportunities related to **Software Engineering, Backend Devel
 
 📧 **Email:** savindyaabeysingha23@gmail.com
 
-💼 **LinkedIn:** [Connect with me(www.linkedin.com/in/savindya-prathibhani-7a9467212)]
-
+💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/savindya-prathibhani-7a9467212)
 ---
 
 ⭐ Feel free to explore my repositories and projects!
