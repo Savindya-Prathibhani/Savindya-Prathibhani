@@ -128,8 +128,8 @@ Currently developing backend applications using:
 
 ## 📫 Connect With Me
 
-[LinkedIn](www.linkedin.com/in/savindya-prathibhani-7a9467212) •
-[Email](savindyaabeysingha23@gmail.com)
+[LinkedIn]www.linkedin.com/in/savindya-prathibhani-7a9467212 •
+[Email]savindyaabeysingha23@gmail.com
 
 ---
 
