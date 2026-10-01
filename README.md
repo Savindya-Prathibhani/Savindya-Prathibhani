@@ -26,7 +26,7 @@ Currently strengthening my backend development expertise with **Java, Spring Boo
 | [Spring Boot Backend](YOUR_REPO_URL) | Backend application focused on REST APIs, database integration, authentication and layered architecture. | Java · Spring Boot · JPA · PostgreSQL |
 | [Computer Vision / ML Project](https://github.com/Savindya-Prathibhani/deepfake-fusion) | Machine learning project exploring computer vision and model performance using real-world datasets. | Python · Machine Learning · Computer Vision |
 | [D365 / Power Platform Projects](YOUR_REPO_URL) | Business application solutions involving Dataverse, Power Automate, Dynamics 365 CE, plugins and customizations. | Dynamics 365 · Dataverse · Power Automate · C# |
-| [Full-Stack Web Application](YOUR_REPO_URL) | Web application developed with frontend and backend integration, REST APIs and relational database management. | Angular · TypeScript · .NET · SQL |
+| [Full-Stack Web Application](https://github.com/ProgEmpowers) | Web application developed with frontend and backend integration, REST APIs and relational database management. | Angular · TypeScript · .NET · SQL |
 
 ---
 
