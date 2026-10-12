@@ -2,7 +2,7 @@
 
 **Software Engineer · .NET · C# · Java · Spring Boot · Angular · Power Platform**
 
-B.Sc. (Hons) in Information Technology graduate from the **University of Moratuwa**, with a **First Class** and a **3.73/4.00 equivalent CGPA (7.73)**.
+B.Sc. (Hons) in Information Technology graduate from the **University of Moratuwa**, with a **First Class** and a **3.73/4.00 equivalent CGPA (3.73)**.
 
 I have over **1 year of industry experience in software development**, with hands-on experience building and maintaining applications using **C#, .NET, ASP.NET Core, Angular, TypeScript, SQL Server, Entity Framework, REST APIs, Dynamics 365 CE, and Microsoft Power Platform**.
 
